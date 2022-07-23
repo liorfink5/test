@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download1483.mediafire.com/ptceji5zl3vg/37l88npc1m0qviu/Instalador_CONSULTORIO.exe">
+<updateDescriptor baseUrl="https://download1074.mediafire.com/h3tr9ckzs0gg/37l88npc1m0qviu/Instalador_CONSULTORIO.exe">
   <entry targetMediaFileId="36" updatableVersionMin="" updatableVersionMax="" fileName="Instalador_CONSULTORIO.exe" newVersion="1.3" newMediaFileId="36" fileSize="74373632" md5Sum="01e6f3b45739e24a20bfc94f38471884" sha256Sum="57d9396ab342794f89af7dc85fa0bda0377936a63466fbe4cb078c997db563f4" bundledJre="windows-amd64-1.8.0_333.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
