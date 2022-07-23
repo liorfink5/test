@@ -1,8 +1,8 @@
 1.2
-https://download1320.mediafire.com/0ra0qz00t6yg/ymw761av60xiggu/Consultorio.jar
+https://download1472.mediafire.com/9q9p3xwve3fg/ufp1yioia1wwks9/Consultorio.exe
 
 
 [Update]
 Version=1.2
-URL=https://download1320.mediafire.com/0ra0qz00t6yg/ymw761av60xiggu/Consultorio.jar
+URL=https://download1472.mediafire.com/9q9p3xwve3fg/ufp1yioia1wwks9/Consultorio.exe
 
