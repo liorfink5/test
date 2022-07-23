@@ -1,8 +1,8 @@
 1.2
-http://www.company.com/setup.exe
+https://download1320.mediafire.com/0ra0qz00t6yg/ymw761av60xiggu/Consultorio.jar
 
 
 [Update]
 Version=1.2
-URL=http://www.company.com/setup.exe
+URL=https://download1320.mediafire.com/0ra0qz00t6yg/ymw761av60xiggu/Consultorio.jar
 
