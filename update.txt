@@ -1,0 +1,8 @@
+1.2
+http://www.company.com/setup.exe
+
+
+[Update]
+Version=1.2
+URL=http://www.company.com/setup.exe
+
