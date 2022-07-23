@@ -1,8 +1,8 @@
-1.2
-https://download1590.mediafire.com/bhcjllfep2ig/3nxfvg6af69wu0k/Programa+Consultorio.zip
+1.3
+https://download1336.mediafire.com/jyjapop0avcg/ufp1yioia1wwks9/Consultorio.exe
 
 
 [Update]
-Version=1.2
-URL=https://download1590.mediafire.com/bhcjllfep2ig/3nxfvg6af69wu0k/Programa+Consultorio.zip
+Version=1.3
+URL=https://download1336.mediafire.com/jyjapop0avcg/ufp1yioia1wwks9/Consultorio.exe
 
