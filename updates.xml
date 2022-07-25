@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="">
-  <entry targetMediaFileId="126" updatableVersionMin="" updatableVersionMax="" fileName="Instalador.exe" newVersion="1.0" newMediaFileId="126" fileSize="68914688" md5Sum="d4068df232baebee54b0bff7656e303a" bundledJre="windows-amd64-12.0.1" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://download1339.mediafire.com/fmm3qyxyvfsg/k7pn8fueo8dtx0q/Instalador.exe">
+  <entry targetMediaFileId="126" updatableVersionMin="" updatableVersionMax="" fileName="Instalador.exe" newVersion="1.1" newMediaFileId="126" fileSize="68914688" md5Sum="d4068df232baebee54b0bff7656e303a" bundledJre="windows-amd64-12.0.1" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
 </updateDescriptor>
