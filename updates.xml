@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download1338.mediafire.com/oe4zvuy9xfzg/py1t475q8e2tdcy/Consultorio_windows-x64_1_1.exe">
+<updateDescriptor baseUrl="https://download1521.mediafire.com/27t21lyxma5g/py1t475q8e2tdcy/Consultorio_windows-x64_1_1.exe">
   <entry targetMediaFileId="88" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio_windows-x64_1.1.exe" newVersion="1.2" newMediaFileId="88" fileSize="68772352" md5Sum="3d068a88393ec380dad3e3d5181c1f80" sha256Sum="80afa3b036e21a3a335b88c34480b097cc99f90fba8235a73ca0b4ec36189fbb" bundledJre="windows-amd64-17.0.4.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
