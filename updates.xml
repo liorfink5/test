@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download1588.mediafire.com/wt49fqsz3l7g/wyl8tj9zoffipyo/Consultorio_windows-x64_1_1.exe">
-  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio_windows-x64_1_1.exe" newVersion="1.5" newMediaFileId="92" fileSize="150344704" md5Sum="908e45bddd92c3dd7f31ebe2b076e822" sha256Sum="19c765415d2b7b431398a80610416431dfadb7c33d6e36e21bd005cc47c63a81" bundledJre="windows-amd64-11.0.16.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://download1472.mediafire.com/ggrk9ntyrhxg/szk7wttfhqh1775/Consultorio_windows-x64_1_7.exe">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio_windows-x64_1_7.exe" newVersion="1.7" newMediaFileId="92" fileSize="75918336" md5Sum="25793ede5518de1f220a8c69074fb29a" sha256Sum="ade015f5419570b82871faf9f7940ff544ffb99ef96707831a5004e22eff39e9" bundledJre="windows-amd64-11.0.16.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
 </updateDescriptor>
