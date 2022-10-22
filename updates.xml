@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="https://download1078.mediafire.com/0d05imyga2yg/gj52qq7l0lvjqut/Consultorio.exe">
-  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio.exe" newVersion="2.7" newMediaFileId="92" fileSize="72944128" md5Sum="a9f4ce2f00e190a1641725ce045b6907" sha256Sum="3dc9db56b82697049a5f51fa484f23777c90f9f49385a99d7bde3e95f72b0348" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Consultorio.exe" newVersion="2.8" newMediaFileId="92" fileSize="72944128" md5Sum="a9f4ce2f00e190a1641725ce045b6907" sha256Sum="3dc9db56b82697049a5f51fa484f23777c90f9f49385a99d7bde3e95f72b0348" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
 </updateDescriptor>
